@@ -8,7 +8,7 @@
 
 |Status|Project Name|Visibility|Details|
 |------|------------|----------|-------|
-|<div align="center"><p><img src="https://media.tenor.com/5o2p0tH5LFQAAAAi/hug.gif" height="30"></p><p>Ongoing</p></div>|De fil en fleurs Project|Private|First website creation in real conditions for the company De fil en fleurs|
+|<div align="center"><p><img src="https://media.tenor.com/AWKzZ19awFYAAAAi/checkmark-transparent.gif" height="30"></p><p>V1 available</p><p>V2 coming soon..</p></div>|De fil en fleurs Project|Private repo, available [here (french only)](https://defilenfleurs.fr)|First website creation in real conditions for the company De fil en fleurs|
 |<div align="center"><p><img src="https://media.tenor.com/5o2p0tH5LFQAAAAi/hug.gif" height="30"></p><p>Next ongoing</p></div>|personnal Portfolio|Unavailable|Portfolio for showing my skills, trying new thins etc..|
 |<div align="center"><p><img src="https://media.tenor.com/sOtW8SC-t3MAAAAi/pause.gif" height="30"></p><p>Paused/Next ongoing</p></div>|Minigames Project|Public ([Repository](https://github.com/ChromaXard/minigames)) |A website created to hone my personal skills. For the public, it is a website with a multitude of mini-games, possibly multiplayer.|
 |<div align="center"><p><img src="https://media.tenor.com/5o2p0tH5LFQAAAAi/hug.gif" height="30"></p><p>Thinking about it</p></div>|redo the 42 Common core|Unavailable|New personnal implementation of the 42 core curriculum projects for my personal experience (intended to replace the [42Cursus](https://github.com/ChromaXard/42Cursus) repository)|
